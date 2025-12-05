@@ -1,0 +1,247 @@
+zcta,segment_id,score,rank
+19701,Blue Collar Workers - Asian Community,0.6466868693680731,1
+19701,Asian Communities,0.23001525196874523,2
+19701,General Population,0.032501351825506924,3
+19701,Urban Working Class - Black Community,0.029571997479423195,4
+19701,Working Class - Remote,0.028430915094230826,5
+19702,Blue Collar Workers - Asian Community,0.7332546589510657,1
+19702,Urban Working Class - Black Community,0.08352601804011658,2
+19702,Asian Communities,0.07819057447099406,3
+19702,Working Class - Remote,0.04104663918979156,4
+19702,General Population,0.03210196513497753,5
+19703,Blue Collar Workers - Asian Community,0.5032858998704933,1
+19703,Urban Working Class - Black Community,0.20311431122659096,2
+19703,General Population,0.13452656511814043,3
+19703,Working Class - Remote,0.05926776931760422,4
+19703,Asian Communities,0.043085889744886,5
+19706,General Population,0.5115265482535756,1
+19706,Working Class - Remote,0.17375932417980255,2
+19706,Blue Collar Workers - Asian Community,0.07083778190301583,3
+19706,Urban Working Class - Black Community,0.05785215027412359,4
+19706,Affluent Retirees - Walkable,0.04289748838949345,5
+19707,Asian Communities,0.8506360329514816,1
+19707,Blue Collar Workers - Asian Community,0.05186464948251583,2
+19707,Affluent Retirees - Walkable,0.03578304787066159,3
+19707,Urban Professionals - Asian Community,0.02753891046538028,4
+19707,General Population,0.01077137720717753,5
+19709,Asian Communities,0.7444447006930547,1
+19709,Blue Collar Workers - Asian Community,0.17792658307069303,2
+19709,General Population,0.020635199459460015,3
+19709,Affluent Retirees - Walkable,0.018145725163409305,4
+19709,Working Class - Remote,0.01037946830884537,5
+19711,Blue Collar Workers - Asian Community,0.6952127647906201,1
+19711,Asian Communities,0.14106964049178697,2
+19711,Urban Working Class - Black Community,0.05335850798968736,3
+19711,General Population,0.03627297219806183,4
+19711,Working Class - Remote,0.02769310095728657,5
+19731,Retirees - Government Workers,0.9989642089699486,1
+19713,Blue Collar Workers - Asian Community,0.6899011295886268,1
+19713,Urban Working Class - Black Community,0.11202923637830534,2
+19713,Working Class - Remote,0.08493507314791852,3
+19713,General Population,0.05695099931831176,4
+19713,Asian Communities,0.026907979818553796,5
+19717,Students & Young Adults,0.9991759530419021,1
+19720,Urban Working Class - Black Community,0.6758426925447045,1
+19720,Blue Collar Workers - Asian Community,0.13660093631961692,2
+19720,Working Class - Remote,0.0978172135647628,3
+19720,General Population,0.0428567731502961,4
+19720,Urban Working Class - Black Community,0.01579999354887929,5
+19730,Young Families,0.9960334961169375,1
+19732,Retirees,0.999856832290868,1
+19733,Service Workers,0.9998102919587718,1
+19734,General Population,0.8154724322134604,1
+19734,Blue Collar Workers - Asian Community,0.04295248291552489,2
+19734,General Population,0.03822241850752566,3
+19734,Asian Communities,0.03371274010426463,4
+19734,Working Class - Remote,0.02384771097428516,5
+19736,Affluent Retirees,0.9999332607294897,1
+19801,Urban Working Class - Black Community,0.9920395969778966,1
+19802,Urban Working Class - Black Community,0.955283439342623,1
+19802,Urban Working Class - Black Community,0.024321819324636357,2
+19803,Asian Communities,0.8163628090220739,1
+19803,Blue Collar Workers - Asian Community,0.06732765718550557,2
+19803,Affluent Retirees - Walkable,0.05565556821857099,3
+19803,General Population,0.021213055883109327,4
+19803,Retirees,0.010137264736715121,5
+19804,Working Class - Remote,0.44891113998777604,1
+19804,General Population,0.19174319949631424,2
+19804,Urban Working Class - Black Community,0.15421681236657928,3
+19804,Blue Collar Workers - Asian Community,0.13925718604198342,4
+19804,General Population,0.023080952876039007,5
+19805,Urban Working Class - Black Community,0.6246315842086427,1
+19805,Working Class - Remote,0.16053587970500133,2
+19805,Urban Working Class - Black Community,0.10716170898446314,3
+19805,Blue Collar Workers - Asian Community,0.07028829956974898,4
+19805,General Population,0.020927872328539727,5
+19806,Blue Collar Workers - Asian Community,0.42326196614770384,1
+19806,Affluent Retirees - Walkable,0.19434002605455286,2
+19806,Asian Communities,0.13388453386941784,3
+19806,General Population,0.0650393782247147,4
+19806,Urban Working Class - Black Community,0.050464047329021884,5
+19807,Urban Professionals - Asian Community,0.9974111573334568,1
+19808,Blue Collar Workers - Asian Community,0.6244330527907132,1
+19808,Asian Communities,0.13897491297908887,2
+19808,General Population,0.07800851051623973,3
+19808,Working Class - Remote,0.06754207257955297,4
+19808,Urban Working Class - Black Community,0.04350222248665006,5
+19809,Blue Collar Workers - Asian Community,0.5555612104859392,1
+19809,General Population,0.1738435435950144,2
+19809,Asian Communities,0.07379813840354509,3
+19809,Urban Working Class - Black Community,0.07306109525940106,4
+19809,Working Class - Remote,0.05105162696618953,5
+19810,Asian Communities,0.5868284173271773,1
+19810,Blue Collar Workers - Asian Community,0.27380190911664853,2
+19810,Affluent Retirees - Walkable,0.0394912624741349,3
+19810,General Population,0.037835523301082176,4
+19810,Working Class - Remote,0.013901681721475672,5
+19901,Urban Working Class - Black Community,0.7916627423113721,1
+19901,Blue Collar Workers - Asian Community,0.055087316057979015,2
+19901,General Population,0.05447962013927738,3
+19901,Working Class - Remote,0.05431022357922335,4
+19901,General Population,0.022550946980723383,5
+19902,Students & Young Adults,0.9992999701495368,1
+19904,Urban Working Class - Black Community,0.7590368780418679,1
+19904,Blue Collar Workers - Asian Community,0.09121930810207113,2
+19904,General Population,0.05713212652465528,3
+19904,Working Class - Remote,0.05102468612637809,4
+19904,Urban Working Class - Black Community,0.012645960838625936,5
+19930,Affluent Retirees - Walkable,0.9011645893218773,1
+19930,Retirees,0.024209203409047548,2
+19930,Asian Communities,0.023742726298403898,3
+19930,General Population,0.010897575804667107,4
+19931,General Population,0.5594949286103277,1
+19931,Working Class - Remote,0.08709462231707961,2
+19931,Urban Working Class - Black Community,0.05417313273533587,3
+19931,Young Families,0.05403501251883798,4
+19931,Blue Collar Workers - Asian Community,0.04356106911577644,5
+19933,Working Class - Remote,0.8137302500782932,1
+19933,Urban Working Class - Black Community,0.07489317828959437,2
+19933,General Population,0.06645322196644449,3
+19933,Blue Collar Workers - Asian Community,0.020967109586698937,4
+19934,General Population,0.5439559233713919,1
+19934,Blue Collar Workers - Asian Community,0.14236632616378778,2
+19934,Urban Working Class - Black Community,0.1317675875348412,3
+19934,Working Class - Remote,0.09918273680998048,4
+19934,Asian Communities,0.02072893139692582,5
+19936,Blue Collar Workers,0.9998251534717012,1
+19938,General Population,0.6672959197635449,1
+19938,Working Class - Remote,0.09432188486018869,2
+19938,Blue Collar Workers - Asian Community,0.0713523705890591,3
+19938,Urban Working Class - Black Community,0.05797552542490515,4
+19938,Asian Communities,0.026802760290953007,5
+19939,General Population,0.5345141721218937,1
+19939,Affluent Retirees - Walkable,0.20005036985174843,2
+19939,Blue Collar Workers - Asian Community,0.0489757638139317,3
+19939,Working Class - Remote,0.044077601448067764,4
+19939,Young Families,0.03255370411751121,5
+19940,General Population,0.5646672775836459,1
+19940,Working Class - Remote,0.19396561583574642,2
+19940,Urban Working Class - Black Community,0.08598152025068757,3
+19940,Blue Collar Workers - Asian Community,0.06954514913213593,4
+19940,Blue Collar Workers,0.02310724016927274,5
+19941,General Population,0.37954480526018025,1
+19941,Working Class - Remote,0.33382347706858584,2
+19941,Urban Working Class - Black Community,0.15707980335154448,3
+19941,Blue Collar Workers - Asian Community,0.03753243360051956,4
+19941,Young Families,0.018610056260541956,5
+19943,General Population,0.8068719407964928,1
+19943,Working Class - Remote,0.0566145628027857,2
+19943,Urban Working Class - Black Community,0.0455539737904828,3
+19943,Blue Collar Workers - Asian Community,0.037293195078816635,4
+19943,Affluent Retirees - Walkable,0.014396212104064334,5
+19944,Affluent Retirees,0.9996739702069846,1
+19945,General Population,0.6799220125827853,1
+19945,Affluent Retirees - Walkable,0.08102162245971044,2
+19945,Working Class - Remote,0.06639822353832785,3
+19945,Blue Collar Workers - Asian Community,0.055285798842623246,4
+19945,Urban Working Class - Black Community,0.03964784383462473,5
+19946,General Population,0.48281492590164543,1
+19946,Working Class - Remote,0.28161322710514697,2
+19946,Blue Collar Workers - Asian Community,0.07921758035987442,3
+19946,Urban Working Class - Black Community,0.0709281059196116,4
+19946,Asian Communities,0.019883566133408692,5
+19947,Working Class - Remote,0.8282949863983806,1
+19947,General Population,0.07591402045103474,2
+19947,Urban Working Class - Black Community,0.041560067466254645,3
+19947,Blue Collar Workers - Asian Community,0.02489267195578397,4
+19950,General Population,0.7086985524213899,1
+19950,Working Class - Remote,0.09364310419387534,2
+19950,Blue Collar Workers - Asian Community,0.05910853957640547,3
+19950,Urban Working Class - Black Community,0.041074073378087786,4
+19950,Affluent Retirees - Walkable,0.0217937111069694,5
+19951,General Population,0.49763286716025923,1
+19951,Affluent Retirees - Walkable,0.14299346387733208,2
+19951,Blue Collar Workers - Asian Community,0.06943422643838956,3
+19951,Working Class - Remote,0.06662880091905098,4
+19951,Retirees - Government Workers,0.04927465509879212,5
+19952,General Population,0.7669875716982881,1
+19952,Working Class - Remote,0.07757888673505209,2
+19952,Blue Collar Workers - Asian Community,0.03888023729207022,3
+19952,Urban Working Class - Black Community,0.03762198960178118,4
+19952,Affluent Retirees - Walkable,0.01705346173169254,5
+19953,General Population,0.6763020664171362,1
+19953,Working Class - Remote,0.09028183852549411,2
+19953,Urban Working Class - Black Community,0.06766905195498105,3
+19953,Blue Collar Workers - Asian Community,0.03974522353307733,4
+19953,Remote Workers,0.028923240422455792,5
+19735,General Population,0.999928121727023,1
+19716,General Population,0.999928121727023,1
+19954,Low Income Communities,0.9988309922160372,1
+19710,General Population,0.999928121727023,1
+19955,Young Professionals - Urban,0.9988111265577038,1
+19956,Urban Working Class - Black Community,0.6181458455677158,1
+19956,General Population,0.15252099500865737,2
+19956,Working Class - Remote,0.09368181965964334,3
+19956,Blue Collar Workers - Asian Community,0.05094363475254062,4
+19956,Blue Collar Workers,0.027686110664559314,5
+19958,Affluent Retirees - Walkable,0.5118502274315913,1
+19958,Asian Communities,0.17782218556001045,2
+19958,Blue Collar Workers - Asian Community,0.12730006062313956,3
+19958,General Population,0.09752081304182683,4
+19958,Working Class - Remote,0.01994150454119334,5
+19960,General Population,0.6502972890672202,1
+19960,Working Class - Remote,0.09926475767019256,2
+19960,Urban Working Class - Black Community,0.06949409724593959,3
+19960,Blue Collar Workers - Asian Community,0.06371364956296356,4
+19960,Affluent Retirees - Walkable,0.021611704021433222,5
+19962,General Population,0.5368787131113556,1
+19962,Blue Collar Workers - Asian Community,0.16891682963309307,2
+19962,Working Class - Remote,0.07436025538318237,3
+19962,Asian Communities,0.06515532841628358,4
+19962,Urban Working Class - Black Community,0.05908637307457997,5
+19963,Urban Working Class - Black Community,0.32614197218995383,1
+19963,Working Class - Remote,0.2419584286558633,2
+19963,General Population,0.21757043915641147,3
+19963,Blue Collar Workers - Asian Community,0.10902704223890569,4
+19963,General Population,0.05179207853834795,5
+19964,Remote Workers,0.998407297645246,1
+19966,General Population,0.4636599230958721,1
+19966,Working Class - Remote,0.18646765314203265,2
+19966,Blue Collar Workers - Asian Community,0.11819957267128908,3
+19966,Affluent Retirees - Walkable,0.08356784201087145,4
+19966,Urban Working Class - Black Community,0.07824339774988844,5
+19967,Retirees,0.9961584401785899,1
+19968,General Population,0.5670263054234153,1
+19968,Blue Collar Workers - Asian Community,0.11943406140092419,2
+19968,Affluent Retirees - Walkable,0.09191948102214356,3
+19968,Working Class - Remote,0.07898437897242203,4
+19968,Asian Communities,0.042964427495515836,5
+19970,Affluent Retirees - Walkable,0.8150254137732197,1
+19970,General Population,0.07619315511177686,2
+19970,Blue Collar Workers - Asian Community,0.032818463265339784,3
+19970,Asian Communities,0.024061931496578738,4
+19970,Working Class - Remote,0.01083126817962062,5
+19971,Retirees,0.9991963001186783,1
+19973,Working Class - Remote,0.622922837104962,1
+19973,Urban Working Class - Black Community,0.13307685721967058,2
+19973,General Population,0.10860858342978315,3
+19973,Blue Collar Workers - Asian Community,0.09288654705868299,4
+19975,General Population,0.9466421662582469,1
+19975,Affluent Retirees - Walkable,0.012817544178017028,2
+19977,General Population,0.6638745707582888,1
+19977,Blue Collar Workers - Asian Community,0.10361636743569633,2
+19977,Working Class - Remote,0.09965844434904268,3
+19977,Urban Working Class - Black Community,0.07186945860026503,4
+19977,Asian Communities,0.018528012442905913,5
+19979,Blue Collar Workers,0.9954839486465384,1
+21912,Blue Collar Workers,0.9990194808020468,1
